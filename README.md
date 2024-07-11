@@ -1,6 +1,6 @@
 ### Antonios Mavridis
 Hey there 👋  
-I'm Antonios, a passionate Postgraduate Student motivated to learn, grow and excel within the fields of **Data Science** and **Machine Learning**. I am experienced in collecting, analyzing and interpreting large datasets, developing new forecasting models, and performing data management tasks.
+I am an experienced BI & Analytics Engineer specializing in the entire data lifecycle, from ETL processes to advanced batch and streaming processing. Holding a master's degree in Data Science, my journey through academia and the professional world blends together, enriching my adventure into machine learning, deep learning, and large-scale management systems. Driven by the endless possibilities of data, I am dedicated to advancing the field through innovative analytics and data-driven solutions that not only meet but exceed the strategic needs of the future.
 
 
 ## 🛠️ My favorite tools
